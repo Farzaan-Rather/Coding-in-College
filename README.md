@@ -1,2 +1,2 @@
 # Coding-in-College
-Programs of C Language.
+This repository contains coding exercises for C Programming.
